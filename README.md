@@ -1,4 +1,5 @@
-
+<img align="left" alt="Coding Gif" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4737k28hw4dvffqaca5icni20r3ly9pj78up5u4vwt&rid=giphy.gif&ct=g">
+                                                    
 <h1 align="center">Hi 👋, My name is John Nyangige.<h1>
 <h3 align="center">A passionate Data /Android engineer from Nairobi,Kenya</h3>
 
