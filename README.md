@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, My name is John Nyangige.<h1>
 <h3 align="center">A passionate Data /Android engineer from Nairobi,Kenya</h3>
 
-
 - 🌱 I’m currently learning : **React Native**
 
 - 💬 Ask me about : **Data and Android**
