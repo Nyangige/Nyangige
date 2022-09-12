@@ -7,7 +7,7 @@
 - 💬 Ask me about : **Software, Data and Android.**
 
 - 📫 How to reach me : **nyangigejohn@gmail.com /+254 719 623 317.**
-<h4> <i>Available for Hire me!</i></h3>
+<h4> <i>Available for Hire</i></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
