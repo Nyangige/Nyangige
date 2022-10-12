@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, My name is John Nyangige.<h1>
   <h3 align="center">A passionate Software/Data engineer from Nairobi,Kenya.</h3>
 
-- 🌱 I’m currently learning : **Kotlin.**
+- 🌱 I’m currently learning : **AWS.**
 
-- 💬 Ask me about : **Software, Data and Android.**
+- 💬 Ask me about : **Software and Data.**
 
 - 📫 How to reach me : **nyangigejohn@gmail.com /+254 719 623 317.**
 <h4> <i>Available for Hire</i></h3>
